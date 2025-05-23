@@ -1,4 +1,4 @@
-# math_lib
+# cp_math_lib
 
 A comprehensive Python library offering essential **mathematical** and **competitive programming** utilities.  
 Includes number theory functions, data structures, graph algorithms, string helpers, and more — all designed to be efficient and easy to use.
