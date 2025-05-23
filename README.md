@@ -31,6 +31,10 @@ git clone https://github.com/mohankumarkadiri/cp-math-utils.git
 cd cp-math-utils
 pip install .
 
+```
+
+# Example
+
 
 ```python
 from math_lib import math_utils, helpers
@@ -42,5 +46,5 @@ print(math_utils.mod_exp(2, 10, 1000))  # 1024 % 1000 = 24
 for nx, ny in helpers.neighbors(1, 1, 3, 3):
     print(nx, ny)
 
-
+```
 
