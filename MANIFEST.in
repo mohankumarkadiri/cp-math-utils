@@ -1,0 +1,7 @@
+# Include package code only
+recursive-include cp_math_utils *.py
+
+# Exclude unwanted root-level files from the package
+exclude .gitignore
+exclude LICENSE
+exclude README.md
